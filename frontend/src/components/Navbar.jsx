@@ -17,7 +17,7 @@ export default function Navbar() {
         <div className="flex gap-4">
           <Link
             to="/wishlist"
-            className="px-4 py-2 rounded hover:bg-blue-50 text-blue-600 font-medium relative"
+            className="px-4 py-2 rounded hover:bg-blue-50 text-black font-medium relative"
           >
             Wishlist
             {wishlist.length > 0 && (
