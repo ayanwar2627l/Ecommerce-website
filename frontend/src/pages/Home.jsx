@@ -53,6 +53,7 @@ export default function Home() {
       </section>
 
       {/* How the Wishlist Works - Horizontal Step Flow */}
+      {/*  */}
       <section className="bg-gray-50 py-20">
         <div className="max-w-7xl mx-auto px-8">
           <h2 className="text-4xl font-bold text-center text-gray-900 mb-4">
