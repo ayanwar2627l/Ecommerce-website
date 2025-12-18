@@ -1,5 +1,21 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "pg": "^8.16.3"
+=======
+  "name": "myproject",
+  "version": "1.0.0",
+  "main": "unit1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+>>>>>>> 08ba88485a21b165a419d3cc0c90b07e4b22db92
   }
 }
